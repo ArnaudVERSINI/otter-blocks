@@ -10,9 +10,29 @@
 	animation-delay: 200ms;
 }
 
+.animated.delay-300ms {
+	-webkit-animation-delay: 300ms;
+	animation-delay: 300ms;
+}
+
+.animated.delay-400ms {
+	-webkit-animation-delay: 400ms;
+	animation-delay: 400ms;
+}
+
 .animated.delay-500ms {
 	-webkit-animation-delay: 500ms;
 	animation-delay: 500ms;
+}
+
+.animated.delay-600ms {
+	-webkit-animation-delay: 600ms;
+	animation-delay: 600ms;
+}
+
+.animated.delay-700ms {
+	-webkit-animation-delay: 700ms;
+	animation-delay: 700ms;
 }
 
 .o-animations-control__popover {

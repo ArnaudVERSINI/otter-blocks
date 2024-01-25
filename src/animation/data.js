@@ -331,8 +331,24 @@ export const delayList = [
 		value: 'delay-200ms'
 	},
 	{
+		label: __( '300 Milliseconds', 'otter-blocks' ),
+		value: 'delay-300ms'
+	},
+	{
+		label: __( '400 Milliseconds', 'otter-blocks' ),
+		value: 'delay-400ms'
+	},
+	{
 		label: __( '500 Milliseconds', 'otter-blocks' ),
 		value: 'delay-500ms'
+	},
+	{
+		label: __( '600 Milliseconds', 'otter-blocks' ),
+		value: 'delay-600ms'
+	},
+	{
+		label: __( '700 Milliseconds', 'otter-blocks' ),
+		value: 'delay-700ms'
 	},
 	{
 		label: __( 'One Second', 'otter-blocks' ),
